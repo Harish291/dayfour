@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Harish</string>
+    <string name="calculator">Calculator</string>
+    <array name="test">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+
+    </array>
+</resources>
